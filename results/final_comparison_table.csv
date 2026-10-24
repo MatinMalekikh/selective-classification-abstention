@@ -1,0 +1,7 @@
+Dataset,Model,Baseline_Accuracy,Selective_Accuracy,Coverage
+Wine,Logistic Regression,0.981,0.992,0.957
+Wine,Random Forest,0.979,0.985,0.965
+Wine,SVM,0.989,0.992,0.921
+Breast Cancer Wisconsin,Logistic Regression,0.974,0.978,0.985
+Breast Cancer Wisconsin,Random Forest,0.957,0.978,0.902
+Breast Cancer Wisconsin,SVM,0.969,0.975,0.968

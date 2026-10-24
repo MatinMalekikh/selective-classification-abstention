@@ -1,0 +1,4 @@
+Model,Mean_Test_Accuracy,Std_Test_Accuracy,Mean_Macro_F1,Mean_Coverage,Std_Coverage,Mean_Selective_Accuracy,Successful_Validation_Targets
+Logistic Regression,0.981,0.029,0.981,0.957,0.099,0.992,20
+Random Forest,0.979,0.025,0.98,0.965,0.061,0.985,20
+SVM,0.989,0.017,0.989,0.921,0.144,0.992,20
